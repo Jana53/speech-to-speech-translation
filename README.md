@@ -1,4 +1,4 @@
-# OmniBank Global Translate
+# Bank translation assistant
 
 Ultra-low latency real-time speech-to-speech translation for global banking calls, powered by the **Gemini 3.1 Multimodal Live API**.
 
