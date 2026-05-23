@@ -1,0 +1,6 @@
+{
+  "name": "OmniBank Global Translate",
+  "description": "Ultra-low latency real-time speech-to-speech translation for global banking calls.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
